@@ -2,8 +2,7 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/appointment-booking-chatbot.git
-   cd appointment-booking-chatbot
+   git clone https://github.com/Sudharma-11/Agentic-AI-Workshop.git
    ```
 
 2. Install the required dependencies:
